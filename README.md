@@ -5,7 +5,7 @@ ofensas, o que afeta negativamente a experiência de todas as pessoas que estão
 plataforma. Dessa forma, esse filtro busca simular como seria a correção desse problema
 
 ## Como funciona o código 
-O usuário entra com uma frase de até 150 caractere, simulando o que aconteceria do twitter, por exemplo. Quando o usuário tentar enviar alguma frase que contenha o tokens não permitido ele será bloqueado com um aviso.
+O usuário entra com uma frase de até 150 caracteres, simulando o que aconteceria do twitter, por exemplo. Quando o usuário tentar enviar alguma frase que contenha o tokens não permitido ele será bloqueado com um aviso.
 
 ## Tecnologias utilizadas
 
